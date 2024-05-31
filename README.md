@@ -6,8 +6,11 @@ Employees often have questions regarding organizational policies, such as leave 
 
 # 2. Solution Architecture:
 
+
 # 3. Azure Services
   - Azure OpenAI Service
   - Azure Search Service
   - Azure Storage
+  - Azure App Service
+  - Azure Web App
       

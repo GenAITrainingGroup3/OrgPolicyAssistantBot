@@ -13,4 +13,6 @@ Employees often have questions regarding organizational policies, such as leave 
   - Azure Storage
   - Azure App Service
   - Azure Web App
+
+Azure account used for creation of Azure services is: eyuser9@meteoros.ai
       
